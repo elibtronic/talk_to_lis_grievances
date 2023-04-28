@@ -1,8 +1,6 @@
 # Talk to LIS Grievances
 
-This pre-seeds a OpenAI with the 5 year archive of LIS Grievances Tweets. You can then interact directly with it.
-
-Yup, you can talk to it directly now. Uses Google Colab.
+This pre-seeds a OpenAI with the [5 year archive](https://doi.org/10.5683/SP3/PHWSVM) of LIS Grievances Tweets. You can then interact directly with it.
 
 
 
